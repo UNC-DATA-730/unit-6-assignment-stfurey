@@ -1,7 +1,7 @@
 # `DATA 730 assignment #6 repository`
 
 > :warning: **Do not clone this repository directly!**
-> Use the invite link instead: 
+> Use the invite link instead: https://classroom.github.com/a/pHAAOLn6
 ## Instructions
 
 Complete the assignment [Jupyter notebook 📓](assignment6.ipynb) and push your completed copy to your assignment repository.
