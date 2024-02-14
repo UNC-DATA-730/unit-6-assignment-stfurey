@@ -13,6 +13,7 @@ dependencies:
   - patsy
   - pyarrow
   - plotnine
+  - ipykernel
   - pip
   - pip:
       - palmerpenguins
